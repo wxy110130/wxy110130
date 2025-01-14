@@ -10,14 +10,8 @@
 wxy110130/wxy110130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![](https://cdn.luogu.com.cn/upload/image_hosting/rrgj11uh.png)]()
 
-[![](https://cdn.luogu.com.cn/upload/image_hosting/91uhq0f5.png)]()
-
-[![](https://api.xecades.xyz/api?str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5+%F0%9F%8D%B0&date=2025-01-30&quote=%F0%9F%99%8F%E2%9C%A8%F0%9F%8D%9F%F0%9F%A7%81%F0%9F%8D%A6%F0%9F%8D%AB%F0%9F%8D%A9%F0%9F%8D%A8%F0%9F%8D%B7%F0%9F%8D%89&bilibili=18654646977%F0%9F%8C%AD&email=wxy110130%40outlook.com&qq=3118976484%F0%9F%8D%94&luogu=wxy11130%E2%9C%8C%EF%B8%8F&zhihu=%E8%A3%81%E6%AE%B5%E6%98%9F%E6%B2%B3%E9%80%81%E7%BB%99%E4%BD%A0%F0%9F%8D%9B&github=WXY110130+%F0%9F%9A%80&wechat=wxy11130%F0%9F%8D%95)]()
-
-$\color{#ffffff}----------$$\def\w{200pt}\def\h{64pt}\def\titleoffest{54pt}\def\arcoffest{57.7pt}\def\drawx#1{\color{#1}\rule[-3pt]{0.5pt}{\h}}\drawx{#fafafa}\drawx{#f7f7f7}\drawx{#efefef}\color{#bebebe}\rule[-3pt]{0.5pt}{\h}\kern{-1.2pt}\raisebox{\arcoffest}{◜}\kern{-5pt}\rule[\h]{\w}{0pt}\raisebox{\titleoffest}{\kern{-10pt}\color{#202020}{\large×}}\kern{-4.5pt}\raisebox{\arcoffest}{◝}\kern{-1pt}\rule[-3pt]{0.5pt}{\h}\kern{-\w}\kern{-6.9pt}\raisebox{-6pt}{◟}\kern{-5pt}\rule[-6pt]{\w}{0pt}\kern{-4.3pt}\raisebox{-6pt}{◞}\kern{-0.5pt}\drawx{#e8e8e8}\drawx{#f5f5f5}\drawx{#fafafa}\kern{-\w}\kern{-5pt}\def\drawx#1#2{\color{#1}\rule[#2]{\w}{0pt}\kern{-\w}}\drawx{#bfbfbf}{-6pt}\drawx{#d6d6d6}{-6.5pt}\drawx{#ececec}{-7pt}\drawx{#f8f8f8}{-7.5pt}\raisebox{\titleoffest}{\kern{9pt}\color{#404040}\tiny\textsf{提示}}
-\kern{-\w}$ $\kern{4pt}$ $\color{#00B8D4}\rule{2pt}{44pt}\color{#E5F8FB}\rule[24pt]{190pt}{20pt}\color{#e8e8e8}\rule{0.5pt}{44pt}\color{#f5f5f5}\rule{0.5pt}{44pt}\color{#fafafa}\rule{0.5pt}{44pt}\kern{-190pt}\kern{-1.5pt}\color{#bfbfbf}\rule[0pt]{190pt}{0pt}\kern{-190pt}\color{#d6d6d6}\rule[-0.5pt]{190pt}{0pt}\kern{-190pt}\color{#ececec}\rule[-1pt]{190pt}{0pt}\kern{-190pt}\color{#f8f8f8}\rule[-1.5pt]{190pt}{0pt}\kern{-190pt}\color{black}\raisebox{24pt}{ \raisebox{6pt}{ \kern{-1pt} \color{#00B8D4}\large{\kern{2pt}\bf{i}\kern{5.5pt}}\raisebox{1.5pt}{ \color{#404040}\footnotesize\kern{-4pt}\sf\bf{您将无法使用此页面上的任何图片}}}}\kern{-200pt}$.$\kern{4pt}\raisebox{10pt}{\footnotesize\sf{ 原因：}}$$\def\w{130pt}\def\h{18pt}\color{#E4E7E8}\rule[3pt]{0.1pt}{\h}\kern{-0.5pt}\rule[21pt]{\w}{0pt}\rule[3pt]{0.1pt}{\h}\kern{-\w}\color{#0067C0}\rule[3pt]{\w}{0.5pt}\kern{-\w}\color{#616161}\raisebox{10.2pt}{\scriptsize\sf\kern{5pt}此页面已开启图片防盗链}$
+[![](https://api.xecades.xyz/api?str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5+%F0%9F%8D%B0&date=2025-01-30&quote=%F0%9F%99%8F%E2%9C%A8%F0%9F%8D%9F%F0%9F%A7%81%F0%9F%8D%A6%F0%9F%8D%AB%F0%9F%8D%A9%F0%9F%8D%A8%F0%9F%8D%B7%F0%9F%8D%89&bilibili=13963390919%F0%9F%8C%AD&email=wxy110130%40outlook.com&qq=3118976484%F0%9F%8D%94&luogu=wxy11130%E2%9C%8C%EF%B8%8F&zhihu=%E8%A3%81%E6%AE%B5%E6%98%9F%E6%B2%B3%E9%80%81%E7%BB%99%E4%BD%A0%F0%9F%8D%9B&github=WXY110130+%F0%9F%9A%80&wechat=wxy11130%F0%9F%8D%95)]()
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/hktcuoi9.png)![](https://api.vvhan.com/api/moyu)]()
 
@@ -25,10 +19,7 @@ $\color{#ffffff}------_-----$[![](https://api.vvhan.com/api/ip?s=asd)]()
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/m12irwzk.png)]()
 
-------------
-$\color{#ffffff}-------------$[![练习徽章](https://api.jerryz.com.cn/shield?id=1013713)](https://www.luogu.com.cn/user/1013713#practice)
-
-# $\color{white}--------$[传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
+# [传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
 
 ## 已经有 [![](http://www.web-counter.net/count_20091204.php?c=0P8PdzRGFb5)]() 位巨佬已经光临寒舍且让寒舍蓬荜生辉，然后吊打本蒟蒻 [![](https://cdn.luogu.com.cn/upload/image_hosting/p0tsj39s.png)]()
 
@@ -36,20 +27,12 @@ $\color{#ffffff}-------------$[![练习徽章](https://api.jerryz.com.cn/shield?
 
 ------------
 
-$\small\texttt{\color{#FA4129}  本}\huge\texttt{\color{#FE9019}人}_{\small\texttt{\color{#FFE304}的}^{\large\texttt{\color{#FFEC01}萌\color{#FFF900}新}\small\texttt{\color{#FCFB03}Q\color{#F8FB07}A\color{#F1FB0B}Q}}}^{\large\texttt{\color{#FFB511}是}{\small\texttt{\color{#FFDC07}刚\color{#FFEF00}学}\large\texttt{\color{#FFF600}O\color{#FFFA00}I}}}\huge\texttt{\color{#E6F911}但\color{#92E82F}是}^{\large\texttt{\color{#39D54B}即}{\small\texttt{\color{#03C767}使}}}_{\normalsize\text{\color{#07C964}是\color{#00C789}这\color{#00C7A5}样}}\texttt{\color{#00CBC6}我\color{#00D0EB}也}^{\small\texttt{\color{#00D0F2}要}\normalsize\texttt{\color{#00D0F6}用}\texttt{\color{#03BEF4}蒟}_{\texttt{\color{#04AAEF}蒻}\large\texttt{\color{#078DE4}的}}}_{\scriptsize\texttt{\color{#01CDF6}声\color{#03C2F5}音\color{#04B4F2}大\color{#04A7EE}声\color{#0791E6}喊\color{#0A7BDD}出 }}\texttt{\color{#125BCD}IOI \color{#3D2AB5}AK \color{#A011AD}ME !}$
-
 ### 本人
 #### 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的~~安装与卸载~~；
 #### 精通 CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、HTML、OBE 等~~单词的拼写~~；
 #### 熟悉 Windows、Linux、Mac、Android、IOS、WP8、HarmonyOS 等系统的~~开关机~~。
 
 ------------
-
-$\color{#ffffff}_-------$[![基本信息](https://api.jerryz.com.cn/about?id=1013713&card_width=500)](https://www.luogu.com.cn/user/1013713)
-
-$\color{#ffffff}_--$[![练习情况](https://api.jerryz.com.cn/practice?id=1013713&card_width=700)](https://www.luogu.com.cn/user/1013713#practice)
-
-$\color{#ffffff}_--$[![咕值信息](http://api.jerryz.com.cn/guzhi?id=1013713&scores=100,0,0,3,0&card_width=700)](https://www.luogu.com.cn/user/1013713)
 
 $\color{#ffffff}----------$[![](https://cdn.luogu.com.cn/upload/image_hosting/04y3gixq.png)]()
 
