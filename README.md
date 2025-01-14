@@ -34,22 +34,7 @@ $\color{#ffffff}------_-----$[![](https://api.vvhan.com/api/ip?s=asd)]()
 
 ------------
 
-$\color{#ffffff}----------$[![](https://cdn.luogu.com.cn/upload/image_hosting/04y3gixq.png)]()
-
-$\color{#ffffff}--------_---$[$\begin{array}{c}\rule{50pt}{15pt}\\[-16pt]\color{white}回到主页\end{array}$](https://www.luogu.com.cn/)
-[$\begin{array}{c}\rule{50pt}{15pt}\\[-16pt]\color{white}回到顶部\end{array}$](https://www.luogu.com.cn/user/1013713)
-[$\begin{array}{c}\rule{50pt}{15pt}\\[-16pt]\color{white}前往博客\end{array}$](https://www.luogu.com.cn/blog/1013713/)
-
 $\color{#ffffff}_--$[![](https://cdn.luogu.com.cn/upload/image_hosting/hs1y5qix.png)]()
-
-$% w, h, fillcol, bordercol
-\newcommand\BorderRect[4]{\color{#3}\rule{#1}{#2}\kern{-#1}\color{#4}\rule{0.5px}{#2}\kern{-0.5px}\rule{#1}{0px}\rule{0.5px}{#2}\kern{-0.5px} \kern{-#1}\rule[#2]{#1}{0px}}% w, h, title, subtitle, fillcol, iconch ,iconcol 
-\newcommand\BasicInfoBarFather[7]{ \BorderRect{#1}{#2}{#5}{ghostwhite} \kern{-#1} \raisebox{#2}{ \raisebox{-26pt}{ \color{black}\kern{-4px} \raisebox{7px}{ \color{#7}\Huge{∙}\kern{-1px} } \raisebox{10.6px}{ \kern{-20.2px} \color{white}\scriptsize\textbf{#6}}\kern{-7px}\footnotesize\raisebox{10.2px}{\textbf{\textsf{#3}}}\kern{2px}\raisebox{10.2px}{\textsf{#4}}}}}\def\BasicInfoBarColorFill{#F4F4F4}\def\BasicInfoBarColorIcon{#0078D4}\def\BasicWarnBarColorFill{#FFF4CE}\def\BasicWarnBarColorIcon{#9D5D00}\def\BasicOkBarColorFill{#DFF6DD}\def\BasicOkBarColorIcon{#0F7B0F}\def\BasicErrBarColorFill{#FDE7E9}\def\BasicErrBarColorIcon{#C42B1C}\newcommand\BasicInfoBar[4]{\BasicInfoBarFather{#1}{#2}{#3}{#4}{\BasicInfoBarColorFill}{i}{\BasicInfoBarColorIcon}}\newcommand\BasicWarnBar[4]{\BasicInfoBarFather{#1}{#2}{#3}{#4}{\BasicWarnBarColorFill}{i}{\BasicWarnBarColorIcon}}\newcommand\BasicOkBar[4]{\BasicInfoBarFather{#1}{#2}{#3}{#4}{\BasicOkBarColorFill}{\tiny\kern{-1px}\raisebox{0.2px}{✔}}{\BasicOkBarColorIcon}}\newcommand\BasicErrBar[4]{\BasicInfoBarFather{#1}{#2}{#3}{#4}{\BasicErrBarColorFill}{\kern{-1.5px}\raisebox{0.6px}{✘}}{\BasicErrBarColorIcon}}\BasicWarnBar{200px}{26px}{ 警告}{  此人太蒻了，请勿靠近}\\\BasicInfoBar{200px}{26px}{ 提醒}{ 近墨者黑}\\\BasicErrBar{200px}{26px}{ 请勿}{ 膜拜我}\\\BasicOkBar{200px}{26px}{ 应该}{ 嘲讽并踩爆这个蒟蒻}\\$
-
-------------
-[![](https://cdn.luogu.com.cn/upload/image_hosting/w472ihsj.png)]()
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/16lg2s62.png)[![](https://i.mji.rip/2023/10/02/9301fafa6bbaf5e746eda15f22c1a88b.gif)]()
 
 #### 老师说OI要靠自学，但是本人太逊了是个蒟蒻，所以冒昧问一下：
 
@@ -74,26 +59,10 @@ $% w, h, fillcol, bordercol
 
 $\color{#ffffff}-_.---$[![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F1107%2F5c92ece8j00r26w8z008hd000gi02hxp.jpg&thumbnail=660x2147483647&quality=80&type=jpg)]()
 
-#### 怎么都棕了？？？
-[![](https://cdn.luogu.com.cn/upload/image_hosting/9olhudux.png)]()
-
-[![](https://cdn.luogu.com.cn/upload/image_hosting/1fjairmj.png)]()
-
-[![](https://cdn.luogu.com.cn/upload/image_hosting/121xk36i.png)]()
-
------------
-![](bilibili:BV1C84y1V7Uk)
-![](bilibili:BV1Su4y1Z76Q)
-![](bilibili:BV1Mh4y1P7Rq)
-![](bilibili:BV1wM4y147iq)
-![](bilibili:av984714877)
-![](bilibili:BV1nV4y1b7xU)
-
-
 [![](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D450%2C600/sign=90881c4dc63d70cf4cafa209cdecfd36/adaf2edda3cc7cd962a67aad3601213fb80e913f.jpg)]()
 
 [![](https://s1.ax1x.com/2018/03/09/9RBOTs.gif)]()
-$$\begin{matrix}\color{gold}\colorbox{black}{\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\kern{0.4pt}} \\\large \colorbox{black}{\color{gold}\underline{\texttt{Caution!!! \qquad Caution!!! \qquad Caution!!! \qquad Caution!!! }}}\\\Large \colorbox{black}{\color{gold}\underline\text{\Huge ☢\:\Large本文使用了大量\LaTeX，可能会导致加载较慢!\Huge \:☢\Large\ \ \!\! \color{black}\kern{8.4pt}}} \\\large \colorbox{black}{\color{gold}\underline{\texttt{Caution!!! \qquad Caution!!! \qquad Caution!!! \qquad Caution!!! }}}\\\end{matrix}$$
 
-------------
+----------------
+
 ###### [彩蛋](https://wxy6418-my.sharepoint.com/:f:/g/personal/000_wxy6418_onmicrosoft_com/EkTXqoM5HrpKigtj6nZZVNMBEknQFzMfPxsGrpndUGLrNA?e=95ey1B) 密码不告诉你嘿嘿嘿
