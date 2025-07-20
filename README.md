@@ -1,10 +1,43 @@
-### 👋 游走于网络间的不速之客 —— INFINITY X🍫![](https://camo.githubusercontent.com/82dc63b8cccf0712e6cb11bf31b5f8c7ac8bd3f21852dd07d0db419cafaf480e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383836363937332f383933342f68656c6c6f6b6974747964616e63652e6769663f31353838383636393733)
+<img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
+## 👋 游走于网络间的不速之客 —— INFINITY X🍫 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 <!---
 wxy110130/wxy110130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---🎗️🪄📍 >
 
+###⚡自我介绍 / Self Introduction
+- 📽️综合类视频博主
+- 🏆比赛讲解员
+- 🎞️视频剪辑者
+- 🪗乐器演奏家
+- ⌨️程序员
+- ✈️无人机爱好者
+- 🎨绘画师
+- 🎵音乐创作人
+- 🎤口才演讲者
+- 📜文学创作者
+- 🍕美食家
 [![](https://api.xecades.xyz/api?str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5+%F0%9F%8D%B0&date=2025-01-30&quote=%F0%9F%99%8F%E2%9C%A8%F0%9F%8D%9F%F0%9F%A7%81%F0%9F%8D%A6%F0%9F%8D%AB%F0%9F%8D%A9%F0%9F%8D%A8%F0%9F%8D%B7%F0%9F%8D%89&bilibili=13963390919%F0%9F%8C%AD&email=wxy110130%40outlook.com&qq=3118976484%F0%9F%8D%94&luogu=wxy11130%E2%9C%8C%EF%B8%8F&zhihu=%E8%A3%81%E6%AE%B5%E6%98%9F%E6%B2%B3%E9%80%81%E7%BB%99%E4%BD%A0%F0%9F%8D%9B&github=WXY110130+%F0%9F%9A%80&wechat=wxy11130%F0%9F%8D%95)]()
+
+### 技术栈 / Technology Stack
+![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
+![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![ARM](https://img.shields.io/badge/-ARM-%23c9e735?style=flat&logo=ARM&logoColor=242424)
+![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
+![PUG](https://img.shields.io/badge/-Pug-%23a86454?style=flat&logo=PUG&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+
+### Github 贡献图
+[![wxy110130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy110130&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/hktcuoi9.png)![](https://api.vvhan.com/api/moyu)]()
 
@@ -12,24 +45,20 @@ $\color{#ffffff}------_-----$[![](https://api.vvhan.com/api/ip?s=asd)]()
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/m12irwzk.png)]()
 
-# [传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
-
-## 已经有 [![](http://www.web-counter.net/count_20091204.php?c=0P8PdzRGFb5)]() 位巨佬已经光临寒舍且让寒舍蓬荜生辉，然后吊打本蒟蒻 [![](https://cdn.luogu.com.cn/upload/image_hosting/p0tsj39s.png)]()
-
-###### 本蒟蒻的用户编号：1013713 =  (114514+114514)*(-11-4+5+14)+114*514+114*51*4+1+14514+1145+14+1+14*5*1+4
+### [🔗传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
 
 ------------
 
-### 本人
-#### 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的~~安装与卸载~~；
-#### 精通 CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、HTML、OBE 等~~单词的拼写~~；
-#### 熟悉 Windows、Linux、Mac、Android、IOS、WP8、HarmonyOS 等系统的~~开关机~~。
+#### 本人
+##### 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的~~安装与卸载~~；
+##### 精通 CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、HTML、OBE 等~~单词的拼写~~；
+##### 熟悉 Windows、Linux、Mac、Android、IOS、WP8、HarmonyOS 等系统的~~开关机~~。
 
 ------------
 
 $\color{#ffffff}_--$[![](https://cdn.luogu.com.cn/upload/image_hosting/hs1y5qix.png)]()
 
-#### 老师说OI要靠自学，但是本人太逊了是个蒟蒻，所以冒昧问一下：
+#### 请问：
 
 ```
 可持久化非确定状态AC自动分块维护线段平衡仙人掌优化最小费用最大流预处理混合
@@ -58,4 +87,5 @@ $\color{#ffffff}-_.---$[![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws
 
 ----------------
 
-###### [彩蛋](https://wxy6418-my.sharepoint.com/:f:/g/personal/000_wxy6418_onmicrosoft_com/EkTXqoM5HrpKigtj6nZZVNMBEknQFzMfPxsGrpndUGLrNA?e=95ey1B) 密码不告诉你嘿嘿嘿
+###### [彩蛋](https://wxy6418-my.sharepoint.com/:f:/g/personal/000_wxy6418_onmicrosoft_com/EkTXqoM5HrpKigtj6nZZVNMBEknQFzMfPxsGrpndUGLrNA?e=95ey1B) 
+密码 000000/123456
