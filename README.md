@@ -1,5 +1,3 @@
-<img align="middle" src="https://s21.ax1x.com/2025/07/20/pV8V6yj.png" width="60">
-
 <img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
 
 ## 👋 游走于网络间的不速之客 —— INFINITY X🍫 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="40" /> 
@@ -44,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
 -----------------
+
+<img align="right" src="https://s21.ax1x.com/2025/07/20/pV8V6yj.png" width="100">
 
 ### 📍[🔗传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
 
