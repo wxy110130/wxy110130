@@ -41,7 +41,10 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
------------------------------
+-----------------
+
+### 📍[🔗传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
+
 
 ### 🎗️Github 贡献图
 [![wxy110130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy110130&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -49,13 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/hktcuoi9.png)![](https://api.vvhan.com/api/moyu)]()
 
-[![](https://api.vvhan.com/api/ip?s=asd)]()
-
 [![](https://cdn.luogu.com.cn/upload/image_hosting/m12irwzk.png)]()
-
-----------------------
-
-### 📍[🔗传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
 
 ------------
 
