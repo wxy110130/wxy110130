@@ -56,14 +56,13 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/m12irwzk.png)]()
 
-------------
+
 
 #### 本人
 ##### 擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的~~安装与卸载~~；
 ##### 精通 CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、HTML、OBE 等~~单词的拼写~~；
 ##### 熟悉 Windows、Linux、Mac、Android、IOS、WP8、HarmonyOS 等系统的~~开关机~~。
 
-------------
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/hs1y5qix.png)]()
 
@@ -76,7 +75,6 @@ You can click the Preview link to take a look at your changes.
 怎么写？
 ```
 ------------
-[![](https://cdn.luogu.com.cn/upload/image_hosting/u8rhdw3n.png) ]()[![](https://s2.ax1x.com/2019/07/28/elNHn1.gif)]()
 
 [![](https://p.qpic.cn/qq_expression/41384847/41384847_0_0_0_9710B2BF57B43E59DC64A5C64407F5B2_0_0/0)]()
 
@@ -89,8 +87,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://cdn.luogu.com.cn/upload/pic/68655.png)]()
 
 $\color{#ffffff}-_.---$[![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F1107%2F5c92ece8j00r26w8z008hd000gi02hxp.jpg&thumbnail=660x2147483647&quality=80&type=jpg)]()
-
-[![](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D450%2C600/sign=90881c4dc63d70cf4cafa209cdecfd36/adaf2edda3cc7cd962a67aad3601213fb80e913f.jpg)]()
 
 [![](https://s1.ax1x.com/2018/03/09/9RBOTs.gif)]()
 
