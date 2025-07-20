@@ -1,4 +1,4 @@
-<img align="center" src="https://imgse.com/i/pV8V6yj">
+<img align="center" src="https://s21.ax1x.com/2025/07/20/pV8V6yj.png">
 
 <img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
 
