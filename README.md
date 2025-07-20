@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.luogu.com.cn/upload/image_hosting/rrgj11uh.png">
+<img align="center" src="https://imgse.com/i/pV8V6yj">
 
 <img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
 
