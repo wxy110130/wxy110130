@@ -9,7 +9,7 @@ wxy110130/wxy110130 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### ⚡$自我介绍$ / Self Introduction
+### ⚡自我介绍 / Self Introduction
 
 <img align="right" src="https://api.xecades.xyz/api?str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5+%F0%9F%8D%B0&date=2025-01-30&quote=%F0%9F%99%8F%E2%9C%A8%F0%9F%8D%9F%F0%9F%A7%81%F0%9F%8D%A6%F0%9F%8D%AB%F0%9F%8D%A9%F0%9F%8D%A8%F0%9F%8D%B7%F0%9F%8D%89&bilibili=13963390919%F0%9F%8C%AD&email=wxy110130%40outlook.com&qq=3118976484%F0%9F%8D%94&luogu=wxy11130%E2%9C%8C%EF%B8%8F&zhihu=%E8%A3%81%E6%AE%B5%E6%98%9F%E6%B2%B3%E9%80%81%E7%BB%99%E4%BD%A0%F0%9F%8D%9B&github=WXY110130+%F0%9F%9A%80&wechat=wxy11130%F0%9F%8D%95" width="810" />
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🍕美食家
 
 ------------------
-### 🪄$技术栈$ / Technology Stack
+### 🪄技术栈 / Technology Stack
 ![C#](https://img.shields.io/badge/-C%20Sharp-%23239120?style=flat&logo=C%20Sharp)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 -----------------------------
 
-### 🎗️$Github 贡献图$
+### 🎗️Github 贡献图
 [![wxy110130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxy110130&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
