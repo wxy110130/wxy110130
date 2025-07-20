@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 -----------------
 
-<img align="right" src="https://s21.ax1x.com/2025/07/20/pV8V6yj.png" width="100">
+<img align="right" src="https://s21.ax1x.com/2025/07/20/pV8V6yj.png" width="2500">
 
 ### 📍[🔗传送门](https://www.luogu.com.cn/paste/nr02geeo) ![](https://cdn.luogu.com.cn/upload/image_hosting/9aifcwfx.png)
 
