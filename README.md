@@ -5,9 +5,9 @@
 wxy110130/wxy110130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-----------
 
-###⚡自我介绍 / Self Introduction
+
+### ⚡自我介绍 / Self Introduction
 - 📽️综合类视频博主
 - 🏆比赛讲解员
 - 🎞️视频剪辑者
