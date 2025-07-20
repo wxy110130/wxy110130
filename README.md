@@ -1,4 +1,4 @@
-<center>[![](https://cdn.luogu.com.cn/upload/image_hosting/rrgj11uh.png)]()</center>
+<p align="center">![](https://cdn.luogu.com.cn/upload/image_hosting/rrgj11uh.png)</p>
 
 <img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
 
