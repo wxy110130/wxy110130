@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:wxy110130?theme=moebooru">
 
-## 👋 游走于网络间的不速之客 —— INFINITY X🍫 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="40" /> 
+## 👋 $/color{fffffe}$游走于网络间的不速之客 —— INFINITY X🍫 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="40" /> 
 
 ##
 
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/hktcuoi9.png)![](https://api.vvhan.com/api/moyu)]()
 
-$\color{#ffffff}------_-----$[![](https://api.vvhan.com/api/ip?s=asd)]()
+[![](https://api.vvhan.com/api/ip?s=asd)]()
 
 [![](https://cdn.luogu.com.cn/upload/image_hosting/m12irwzk.png)]()
 
@@ -67,7 +67,7 @@ $\color{#ffffff}------_-----$[![](https://api.vvhan.com/api/ip?s=asd)]()
 
 ------------
 
-$\color{#ffffff}_--$[![](https://cdn.luogu.com.cn/upload/image_hosting/hs1y5qix.png)]()
+[![](https://cdn.luogu.com.cn/upload/image_hosting/hs1y5qix.png)]()
 
 #### 请问：
 
